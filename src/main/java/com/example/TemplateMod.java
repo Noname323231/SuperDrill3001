@@ -15,7 +15,7 @@ public class TemplateMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Среда разработки готова!!!");
+		LOGGER.info("Среда разработки готова!!");
 	}
 
 	public static ResourceLocation id(String path) {
