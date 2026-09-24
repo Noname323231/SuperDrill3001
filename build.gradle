@@ -3,6 +3,9 @@ plugins {
 	id 'maven-publish'
 }
 
+group = "ru.college.i923g"
+version = '0.1-pre-pre-pre-alpha'
+
 repositories {
 	// Add repositories to retrieve artifacts from in here.
 	// You should only use this when depending on other mods because
