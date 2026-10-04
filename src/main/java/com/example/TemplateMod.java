@@ -17,6 +17,7 @@ public class TemplateMod implements ModInitializer {
 	public void onInitialize() {
         System.out.print("Среда разработки готова\n Титов А.А. , Шафеев Р.Р.\n Название команды: 1000 и 1 костыль");
 		LOGGER.info("Проект загружен успешно");
+		ModItems.initialize();
 	}
 
 	public static ResourceLocation id(String path) {
