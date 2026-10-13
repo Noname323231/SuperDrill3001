@@ -1,0 +1,8 @@
+{
+  "drill_activate": {
+    "subtitle": "subtitles.template-mod.drill_activate",
+    "sounds": [
+      "template-mod:drill_activate"
+    ]
+  }
+}
