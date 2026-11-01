@@ -15,7 +15,7 @@ public class ModItems {
             new ResourceLocation("template-mod", "heavy_drill"),
             new Item(new Item.Properties()
                     .stacksTo(1)
-                    .durability(10000)
+                    .durability(999999)
                     .fireResistant()
                     )
     );
